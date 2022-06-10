@@ -1,0 +1,7 @@
+LICENSE. txt
+setup.py
+errorcalc/__init__.py
+errorcalc.egg-info/PKG-INFO
+errorcalc.egg-info/SOURCES.txt
+errorcalc.egg-info/dependency_links.txt
+errorcalc.egg-info/top_level.txt
