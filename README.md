@@ -1,0 +1,7 @@
+# LIB
+
+CREATED A LIBRARY TO CHECK ERROR VALUES:
+
+OUTPUT 
+
+![LIB_OUTPUT](https://user-images.githubusercontent.com/98878126/174423354-34f81737-a1af-438f-81ff-c10878e6ee32.PNG)
